@@ -19,7 +19,7 @@
                         </ul>
                         <h3 style="cursor: pointer;">or use your E-mail ID</h3>
                     </div>
-                    <form action="php/login.php" method="POST">
+                    <form action="login.php" method="POST">
                         <input type="text" name="email" placeholder="EMAIL" required>
                         <input type="password" name="password" placeholder="PASSWORD" required>
                         <button id="b">
@@ -56,7 +56,7 @@
                         </ul>
                         <h3 style="cursor: pointer;">or use your E-mail ID</h3>
                     </div>
-                    <form action="php/signup.php" method="POST">
+                    <form action="signup.php" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <br>
                         <input type="text" name="email" placeholder="Email" required>
