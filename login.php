@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             if ($user['role'] === 'admin') {
                 header('Location: ../admin/views/users.php');
             } else {
-                header('Location: ../home.html');
+                header('Location: ../home.php');
             }
             exit(); 
         } else {
