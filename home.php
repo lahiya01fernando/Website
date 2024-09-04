@@ -20,10 +20,10 @@
         <a href="#" class="logo"><i class='bx bxs-bowl-hot '></i>Ceylon</a>
    
         <ul class="menu">
-            <li><a href="home.html" class="active">Home</a></li>
+            <li><a href="home.php" class="active">Home</a></li>
             <li><a href="products.php">Products</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact1.php">Contact Us</a></li>
+            <li><a href="about.php">About Us</a></li>
             
         </ul>
         <div class="right-nav">
