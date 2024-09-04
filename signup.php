@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $query = "INSERT INTO users (name, email, password, phone) VALUES ('$name', '$email', '$password', '$phone')";
 
         if (mysqli_query($conn, $query)) {
-            header('Location: ../login2.html'); // Redirect to login page after successful signup
+            header('Location: ../login2.php'); // Redirect to login page after successful signup
         } else {
             echo "Error: " . $query . "<br>" . mysqli_error($conn);
         }
