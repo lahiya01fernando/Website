@@ -23,11 +23,11 @@
             <span class="nav-icon"></span>
         </label>
         <ul class="menu">
-            <li><a href="#" class="active">Home</a></li>
-            <li><a href="#">Products</a></li>
-            <li><a href="#">Contact Us</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="login2.html">Login</a></li>
+            <li><a href="index.php" class="active">Home</a></li>
+            <li><a href="products.php">Products</a></li>
+            <li><a href="contact1.php">Contact Us</a></li>
+            <li><a href="about.php">About Us</a></li>
+            <li><a href="login2.php">Login</a></li>
         </ul>
         <div class="right-nav">
             
